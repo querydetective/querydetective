@@ -20,7 +20,7 @@ Most tutorials teach features. Query Detective teaches *thinking*: how to look a
 ### 🧩 Featured project
 
 **[Where Did the Profit Go?](https://github.com/querydetective/where-did-the-profit-go)**: a full data analyst portfolio project. Sales rose 19% while profit fell 18%. Python, SQL, an A/B test, and machine learning find out why.
-▶️ Watch the 2-hour walkthrough on YouTube.
+▶️ [Watch the 2-hour walkthrough on YouTube](https://youtu.be/rla5Fe15tws)
 
 ### 🔗 Find me
 
