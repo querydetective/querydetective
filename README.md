@@ -8,7 +8,7 @@ Most tutorials teach features. Query Detective teaches *thinking*: how to look a
 
 ### 🗂️ What you'll find here
 
-| | |
+| Topic | What you'll learn |
 |---|---|
 | 🗄️ **SQL** | real-world queries, hidden data traps, and schema puzzles |
 | 📊 **Excel** | from a single cell to advanced analysis, taught properly |
@@ -17,12 +17,10 @@ Most tutorials teach features. Query Detective teaches *thinking*: how to look a
 | ❄️ **Snowflake** | cloud data warehousing, explained |
 | 🧩 **Full projects** | complete, end-to-end data analyst cases |
 
-### 🧩 Featured projects
+### 🧩 Featured project
 
 **[Where Did the Profit Go?](https://github.com/querydetective/where-did-the-profit-go)**: a full data analyst portfolio project. Sales rose 19% while profit fell 18%. Python, SQL, an A/B test, and machine learning find out why.
 ▶️ Watch the 2-hour walkthrough on YouTube.
-
-**[PatchTrail Data Project](https://github.com/querydetective/patchtrail-data-project)**: an end-to-end analyst project. Python generates messy retail data, SQL Server cleans it into a star schema, and Power BI answers the business question.
 
 ### 🔗 Find me
 
